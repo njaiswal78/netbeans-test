@@ -12,7 +12,9 @@ and open the template in the editor.
     
     <body>
         <h1>Test git</h1>
-        <?php
+        <h1>Test git phase 2</h1>
+        
+            <?php
         // put your code here
         ?>
     </body>
